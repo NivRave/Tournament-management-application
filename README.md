@@ -1,6 +1,7 @@
 **Project:** Tournament App
 
 **use update-database from pkm to update the db to the latest migration**
+**edit the appsettings.json file with your connection string and email service credentials before running**
 
 **Introduction:**
 
