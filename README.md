@@ -1,20 +1,6 @@
-![Logo, company name Description automatically
-generated](./images/media/image1.jpeg){width="5.770833333333333in"
-height="3.1770833333333335in"}
-
-**Software engineering workshop course**
-
 **Project:** Tournament App
 
-**Team members:** 1. Niv Rave 203984109
-
-> 2\. Shlomo Sandowski 302338447
->
-> 3\. Ron Avraham 206041832
->
-> 4\. Roman Revzin 336550736
->
-> 5\. Or Alush 206257545
+**use update-database from pkm to update the db to the latest migration**
 
 **Introduction:**
 
